@@ -11,4 +11,4 @@ I'm a self_taught data analyst with a background in Business Development_ now bu
 - Python
 
 ## My Projects
-- [Financial Dashboard]
+- [Financial Dashboard](https://github.com/VaishnaviBahatam/Financial-Dashboard)
